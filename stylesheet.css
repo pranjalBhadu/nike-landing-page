@@ -54,6 +54,8 @@ header .menu{
     align-items: center;
     z-index: 100;
     margin: 10vh 0 2rem ;
+     width: inherit;
+    height: initial;
 }
 .text{
     color: #f7f7fb;
