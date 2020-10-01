@@ -24,6 +24,8 @@ section::before{
     font-weight: bolder;
 }
 
+.wrapper {
+    overflow: scroll;
 }
 header{
     width: 100%;
@@ -46,6 +48,7 @@ header .menu{
     height: 80vh;
     display: flex;
     flex-direction: column;
+
 }
 .shoe-img{
     width: auto;
